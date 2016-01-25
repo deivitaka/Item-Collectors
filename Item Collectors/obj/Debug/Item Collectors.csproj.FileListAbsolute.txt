@@ -1,0 +1,42 @@
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\App.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\GridViewPage.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\ListViewPage.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\MainPage.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\Item Containers.xr.xml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\Item Containers.exe
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\Item Containers.pdb
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\resources.pri
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\AppxManifest.xml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\bin\Debug\Item Collectors.build.appxrecipe
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\App.g.i.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\App.g.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\GridViewPage.g.i.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\GridViewPage.g.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\ListViewPage.g.i.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\ListViewPage.g.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\MainPage.g.i.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\MainPage.g.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\App.xaml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\GridViewPage.xaml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\ListViewPage.xaml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\MainPage.xaml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\App.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\GridViewPage.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\ListViewPage.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\MainPage.xbf
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\Item Containers.exe
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\Item Containers.pdb
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\priconfig.xml
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\priconfig.xml.intermediate
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\layout.resfiles
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\layout.resfiles.intermediate
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\resources.resfiles
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\resources.resfiles.intermediate
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\pri.resfiles
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\pri.resfiles.intermediate
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\qualifiers.txt
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Deivi\Documents\GitHub\WindowsPhone_development\Item Collectors\Item Collectors\obj\Debug\ProjectArchitectures.txt

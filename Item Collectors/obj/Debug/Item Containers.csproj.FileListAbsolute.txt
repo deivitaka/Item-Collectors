@@ -1,0 +1,42 @@
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\App.g.i.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\App.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\GridViewPage.g.i.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\GridViewPage.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\ListViewPage.g.i.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\ListViewPage.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\MainPage.g.i.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\MainPage.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\App.xaml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\GridViewPage.xaml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\MainPage.xaml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\App.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\GridViewPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\MainPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\ListViewPage.xaml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\ListViewPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\App.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\GridViewPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\ListViewPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\MainPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\Item Containers.xr.xml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\Item Containers.exe
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\Item Containers.pdb
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\resources.pri
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\AppxManifest.xml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\bin\Debug\Item Containers.build.appxrecipe
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\Item Containers.exe
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\Item Containers.pdb
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\priconfig.xml
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\priconfig.xml.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\layout.resfiles
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\layout.resfiles.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\resources.resfiles
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\resources.resfiles.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\pri.resfiles
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\pri.resfiles.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\qualifiers.txt
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Deivi\Documents\Visual Studio 2015\Projects\Item Containers\Item Containers\obj\Debug\ProjectArchitectures.txt

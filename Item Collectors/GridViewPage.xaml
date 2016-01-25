@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="Item_Containers.GridViewPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Item_Containers"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.DataContext>
+        <local:ViewModel />
+    </Page.DataContext>
+
+    <Page.Resources>
+        <DataTemplate x:Key="GridViewDataTemplate">
+            <Grid Width="170">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Rectangle Height="150" Width="150" Fill="{Binding color}" Margin="0,0,20,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBlock x:Name="nameTB" Style="{StaticResource ListViewItemTextBlockStyle}" FontSize="20" Text="{Binding name}" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" TextWrapping="WrapWholeWords"/>
+                <TextBlock x:Name="priceTB" TextWrapping="Wrap" Style="{StaticResource ListViewItemTextBlockStyle}" FontSize="20" Text="{Binding price}" Grid.Row="2" HorizontalAlignment="Left" Margin="0,0,0,5"/>
+                <TextBlock x:Name="ratingTB" TextWrapping="Wrap" Grid.Row="2" Style="{StaticResource ListViewItemContentTextBlockStyle}" FontSize="20" Text="{Binding rate}" HorizontalAlignment="Right" Margin="0,0,20,5"/>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Icon="Add" Label="Add item" Click="AppBarButton_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="ITEM COLLECTORS" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="gridview" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <GridView x:Name="gridView" 
+                ItemTemplate="{StaticResource GridViewDataTemplate}" 
+                ItemsSource="{Binding gridViewModel.GridViewItems}"
+                AllowDrop="True" CanDragItems="True" CanReorderItems="True"
+                Holding="listView_Holding"
+                Tapped="listView_Tapped"/>
+        </Grid>
+    </Grid>
+</Page>
